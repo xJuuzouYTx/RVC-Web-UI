@@ -1,0 +1,8 @@
+numpy
+torch==2.0.0
+torchaudio
+deepfilternet
+librosa
+matplotlib
+streamlit
+jrvc
